@@ -13,9 +13,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-|**Information A**|**Information B**|
+|**📊 GitHub Stats**|**Information B**|
 |:---:|:---:|
-| Text1 <br/> Text2 | ![stats-one](https://github-readme-stats.vercel.app/api?... |
+| ![](https://nirzak-streak-stats.vercel.app/?user=kaybee-mn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaybee-mn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark) |
 | Text3 <br/> Text4 | ![stats-two](https://github-readme-stats.vercel.app/api?... |
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
