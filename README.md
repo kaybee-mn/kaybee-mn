@@ -9,7 +9,7 @@
 
 |**📊 GitHub Stats**|**✨ Random Dev Quote**|
 |:---:|:---:|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaybee-mn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  |  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaybee-mn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  [![GitHub Streak](https://streak-stats.demolab.com/?user=kaybee-mn)](https://git.io/streak-stats)|  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark) |
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
